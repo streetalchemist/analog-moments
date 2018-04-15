@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
+google_analytics: UA-83279388-2
 collections:
   moments:
     output: true
