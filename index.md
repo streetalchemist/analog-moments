@@ -1,5 +1,6 @@
 ---
-title: Analog Moments
+title: "Analog Moments"
+image: "/assets/img/cover.jpg"
 ---
 <div class="moment-wrapper">
 	{% for moment in site.moments %}
