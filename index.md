@@ -1,3 +1,6 @@
+---
+title: Analog Moments
+---
 <div class="moment-wrapper">
 	{% for moment in site.moments %}
 		<div class="moment-preview">
